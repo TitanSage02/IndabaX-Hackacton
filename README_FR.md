@@ -154,7 +154,3 @@ Confusion Matrix:
 ```
 
 ---
-
-## 8. **Gestion des erreurs :**
-
-- **Erreurs de données** : Le code vérifie d'abord la présence de valeurs manquantes ou de doublons avec `isnull().sum()` et `duplicated()`. Aucune erreur n'est détectée dans les données.
