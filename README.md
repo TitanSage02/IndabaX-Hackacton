@@ -1,3 +1,15 @@
+<h2><center> Welcome to the Cryptojacking Detection Challenge </h2></center>
+<figure>
+ <center><img src ="https://drive.google.com/uc?export=view&id=1afxycLZz1AovI0MjqEIiXyziEVWnUkNG" width = "375" height = '250' alt="Cryptojacking Detection Challenge"/> 
+
+*About the problem*
+> Cryptojacking is a cyber-attack utilizing malicious scripts similar to those from large cryptocurrency houses to illegally mine data without users being aware. These attacks are stealthy and difficult to detect or analyze, often leading to decreased computing speeds for users as well as crashes due to straining of computational resources.
+
+
+*The objective of this challenge is*:
+> classify network activity from various websites as either cryptojacking or not based on features related to both network-based and host-based data.
+
+
 ## 1. **Overview and Objectives:**
 
 ### **Solution Description:**
